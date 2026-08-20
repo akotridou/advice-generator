@@ -77,3 +77,36 @@ body {
 .attribution a {
   color: hsl(150, 100%, 66%);
 }
+
+
+/* RESPONSIVE DESIGN */
+@media (max-width: 576px) {
+  body {
+    padding: 20px;
+  }
+
+  .container {
+    width: 100%;
+    padding: 40px 24px 64px;
+    gap: 20px;
+  }
+
+  #adviceID {
+    font-size: 11px;
+    letter-spacing: 3px;
+  }
+
+  #textAdvice {
+    font-size: 24px;
+  }
+
+  #btn {
+    width: 56px;
+    height: 56px;
+    bottom: -28px;
+  }
+
+  #btn img {
+    width: 20px;
+  }
+}
