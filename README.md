@@ -1,32 +1,34 @@
 Advice Generator App
-A responsive advice generator web application that fetches random advice slips from an external API. It is my first try using API!
+An interactive advice generator app that fetches real-time advice from an API. It is my first try using API!
 
 Features
-Generate random advice slips on demand via button click
+Interactive dice button to generate new advice
 
-Real-time API integration with the Advice Slip JSON API
+Real-time API integration with Advice Slip API
 
-Cache-busting requests to ensure unique advice on consecutive clicks
+Cache prevention for fresh advice on every click
 
-Automatic advice generation upon initial page load
+Responsive card layout
 
-Responsive layout optimized for mobile and desktop screens
+Dynamic advice ID and text updates
 
 Built With
-HTML5
+HTML
 
-CSS3 (Flexbox & Custom Properties)
+CSS (Flexbox)
 
-JavaScript (Fetch API & DOM Manipulation)
+JavaScript (Fetch API)
 
 What I Learned
-Asynchronous JavaScript using fetch() and JSON data extraction
+Asynchronous JavaScript with fetch()
 
-Handling browser caching issues using { cache: "no-cache" }
+Handling API caching issues
 
-Responsive positioning with absolute centering and CSS Flexbox
+DOM manipulation
 
-Error handling in asynchronous HTTP requests using .catch()
+JavaScript click events
+
+Responsive layouts
 
 Live Demo
 View Live Site: (https://akotridou.github.io/advice-generator-app/)
