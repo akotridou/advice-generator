@@ -1,34 +1,30 @@
-Advice Generator App
+# Advice Generator App
+
 An interactive advice generator app that fetches real-time advice from an API. It is my first try using API!
 
-Features
-Interactive dice button to generate new advice
+## Features
 
-Real-time API integration with Advice Slip API
+* Interactive dice button
+* Real-time API data fetching
+* Random advice generation
+* Dynamic advice ID updates
+* Hover glow effects
+* Responsive design
 
-Cache prevention for fresh advice on every click
+## Built With
 
-Responsive card layout
+* HTML
+* CSS
+* JavaScript (Fetch API)
 
-Dynamic advice ID and text updates
+## What I Learned
 
-Built With
-HTML
+* Asynchronous JavaScript with fetch()
+* Working with third-party APIs
+* DOM manipulation
+* Handling API caching issues
+* Responsive card layouts
 
-CSS (Flexbox)
+## Live Demo
 
-JavaScript (Fetch API)
-
-What I Learned
-Asynchronous JavaScript with fetch()
-
-Handling API caching issues
-
-DOM manipulation
-
-JavaScript click events
-
-Responsive layouts
-
-Live Demo
-View Live Site: (https://akotridou.github.io/advice-generator-app/)
+View Live Site: ([https://akotridou.github.io/advice-generator-app/](https://www.google.com/search?q=https://akotridou.github.io/advice-generator-app/))
