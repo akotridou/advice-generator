@@ -27,4 +27,4 @@ An interactive advice generator app that fetches real-time advice from an API. I
 
 ## Live Demo
 
-View Live Site: ([https://akotridou.github.io/advice-generator-app/](https://www.google.com/search?q=https://akotridou.github.io/advice-generator-app/))
+View Live Site: https://akotridou.github.io/advice-generator/
