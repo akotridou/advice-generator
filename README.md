@@ -2,6 +2,10 @@
 
 An interactive advice generator app that fetches real-time advice from an API. It is my first try using API!
 
+## Live Demo
+
+View Live Site: https://akotridou.github.io/advice-generator/
+
 ## Features
 
 * Interactive dice button
@@ -15,7 +19,7 @@ An interactive advice generator app that fetches real-time advice from an API. I
 
 * HTML
 * CSS
-* JavaScript (Fetch API)
+* JavaScript
 
 ## What I Learned
 
@@ -25,6 +29,3 @@ An interactive advice generator app that fetches real-time advice from an API. I
 * Handling API caching issues
 * Responsive card layouts
 
-## Live Demo
-
-View Live Site: https://akotridou.github.io/advice-generator/
